@@ -3,12 +3,27 @@
     {
       "id": 1,
       "name": "Оля",
-      "mail": "olga@mail.com"
+      "email": "olga@email.com"
     },
     {
       "id": 2,
       "name": "Витя",
-      "login": "vitya@mail.com"
+      "email": "vitya@email.com"
+    },
+    {
+      "id": 3,
+      "name": "Витя",
+      "email": "vitya@email.com"
+    },
+    {
+      "id": 4,
+      "name": "Витя",
+      "email": "vitya@email.com"
+    },
+    {
+      "id": 5,
+      "name": "Витя",
+      "email": "vitya@email.com"
     }
   ]
 }

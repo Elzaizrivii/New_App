@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    border: none;
+}
+
+input{
+    height: 30px;
+    width: 300px;
+    margin: 30px;
+    border: none;
+    border-bottom: 1px solid #61dafb;
+    outline:none
+}
+button{
+    height: 30px;
+    outline:none;
+    border-radius: 3px;
+    border: none;
+    background-color: #3578E5;
+    color: white;
+    margin: 30px;
+}
